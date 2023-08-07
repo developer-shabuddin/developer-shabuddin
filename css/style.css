@@ -635,6 +635,9 @@ h2.resp-accordion {
 	font-weight: 400;
 	color: #2a404e;
 }
+.about-header h2{
+text-align: right;
+}
 .about-header h3 span {
 	color: #ef664d;;
 
@@ -647,6 +650,7 @@ h2.resp-accordion {
 .about-imag img {
 	border: 2px solid #ef664d;
 	border-radius: 103px;
+	width: 250px;
 }
 .about-text {
 	float: left;
